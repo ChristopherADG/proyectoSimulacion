@@ -1,25 +1,32 @@
 {
   "files": {
     "main.css": "/proyectoSimulacion/static/css/main.d1b05096.chunk.css",
-    "main.js": "/proyectoSimulacion/static/js/main.c9303a56.chunk.js",
-    "main.js.map": "/proyectoSimulacion/static/js/main.c9303a56.chunk.js.map",
+    "main.js": "/proyectoSimulacion/static/js/main.f6e0f4cc.chunk.js",
+    "main.js.map": "/proyectoSimulacion/static/js/main.f6e0f4cc.chunk.js.map",
     "runtime-main.js": "/proyectoSimulacion/static/js/runtime-main.e08c9240.js",
     "runtime-main.js.map": "/proyectoSimulacion/static/js/runtime-main.e08c9240.js.map",
     "static/css/2.69121389.chunk.css": "/proyectoSimulacion/static/css/2.69121389.chunk.css",
-    "static/js/2.445237fb.chunk.js": "/proyectoSimulacion/static/js/2.445237fb.chunk.js",
-    "static/js/2.445237fb.chunk.js.map": "/proyectoSimulacion/static/js/2.445237fb.chunk.js.map",
+    "static/js/2.d6abd519.chunk.js": "/proyectoSimulacion/static/js/2.d6abd519.chunk.js",
+    "static/js/2.d6abd519.chunk.js.map": "/proyectoSimulacion/static/js/2.d6abd519.chunk.js.map",
     "index.html": "/proyectoSimulacion/index.html",
-    "precache-manifest.51083f637f8e2168c3973376efb141c8.js": "/proyectoSimulacion/precache-manifest.51083f637f8e2168c3973376efb141c8.js",
+    "precache-manifest.1774db8d0d17c433a4de8b75d4fa1381.js": "/proyectoSimulacion/precache-manifest.1774db8d0d17c433a4de8b75d4fa1381.js",
     "service-worker.js": "/proyectoSimulacion/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/proyectoSimulacion/static/css/2.69121389.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/proyectoSimulacion/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.445237fb.chunk.js.LICENSE.txt": "/proyectoSimulacion/static/js/2.445237fb.chunk.js.LICENSE.txt"
+    "static/js/2.d6abd519.chunk.js.LICENSE.txt": "/proyectoSimulacion/static/js/2.d6abd519.chunk.js.LICENSE.txt",
+    "static/media/bernoulli.png": "/proyectoSimulacion/static/media/bernoulli.9cd4b557.png",
+    "static/media/binomial.png": "/proyectoSimulacion/static/media/binomial.fd72f271.png",
+    "static/media/erlang.png": "/proyectoSimulacion/static/media/erlang.f19c9909.png",
+    "static/media/exponencial.png": "/proyectoSimulacion/static/media/exponencial.7ff4d7e4.png",
+    "static/media/normalConv.png": "/proyectoSimulacion/static/media/normalConv.5020218b.png",
+    "static/media/poisson.png": "/proyectoSimulacion/static/media/poisson.2d77d709.png",
+    "static/media/uniforme.png": "/proyectoSimulacion/static/media/uniforme.64ff20e2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e08c9240.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.445237fb.chunk.js",
+    "static/js/2.d6abd519.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c9303a56.chunk.js"
+    "static/js/main.f6e0f4cc.chunk.js"
   ]
 }
